@@ -6,8 +6,11 @@
 
 **Start Project:**
 clone 'main' branch
+
 cd to project file
+
 npm install
+
 -npm start
 
 
